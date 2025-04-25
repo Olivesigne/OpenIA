@@ -1,0 +1,11 @@
+# Gros et inutiles
+/.idea
+/venv
+
+# Fichiers persos
+TestTypes.py
+TimeForEpoch.py
+CustomModel.py
+Lexique.md
+ModelExplication.md
+TestIAIndustries.iml
