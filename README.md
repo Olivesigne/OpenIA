@@ -82,7 +82,7 @@ Les contributions sont bienvenues uniquement après discussion préalable. Pour 
 
 Créé par **Olivesigne**  
 GitHub : [@Olivesigne](https://github.com/Olivesigne)\
-Discord : [@le.de](https://discord.com/channels/@me)
+Discord : [@le.de](https://discord.gg/grENGy8syU)
 
 ---
 
